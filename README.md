@@ -1,3 +1,3 @@
-author: Mohinur Zokirova
-ANIS MEBEL XUSUIY KORXONASI
-designer: Mohinur
+author: Mohinur Zokirova <br>
+ANIS MEBEL XUSUIY KORXONASI <br>
+designer: Mohinur <br>
