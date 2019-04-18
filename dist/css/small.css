@@ -1,0 +1,150 @@
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  header {
+    padding-top: 20px;
+    text-align: center;
+  }
+  header .logo-rasm {
+    width: 130px;
+  }
+  header .korxona {
+    margin-top: 10px !important;
+    font-size: 25px !important;
+  }
+  header .second .qulay {
+    margin-top: 30px !important;
+  }
+  header .raqam {
+    margin-top: 30px !important;
+  }
+  .icons ul {
+    text-align: center;
+  }
+  .menyu .navbar .container-fluid .nav li a,
+  .menyu .navbar .navbar-collapse .nav li a {
+    font-size: 18px;
+  }
+  .karusel .carousel .item img {
+    max-height: 350px;
+    min-height: 350px;
+  }
+  .karusel .carousel .item .carousel-caption {
+    left: 40% !important;
+    width: 60%;
+  }
+  .karusel .carousel .item .carousel-caption h3 {
+    font-size: 25px;
+  }
+  .karusel .carousel .item .carousel-caption p {
+    font-size: 17px;
+  }
+  .pic1 .nomi,
+  .pic2 .nomi,
+  .pic3 .nomi,
+  .pic4 .nomi,
+  .pic5 .nomi,
+  .pic6 .nomi,
+  .pic7 .nomi {
+    font-size: 18px;
+  }
+  .bolalar {
+    padding-left: 0px !important;
+  }
+  .pic2 .nomi {
+    left: 30%;
+  }
+  .pic3 {
+    height: 350px;
+    line-height: 350px;
+  }
+  .pic3 img {
+    min-height: 350px;
+    max-height: 350px;
+  }
+  .pic3 .border {
+    height: 315px;
+  }
+  .pic3 .nomi {
+    left: 35%;
+  }
+  .pic4 {
+    height: 401px;
+    line-height: 401px;
+  }
+  .pic4 img {
+    max-height: 401px;
+    min-height: 401px;
+  }
+  .pic4 .border {
+    height: 360px;
+  }
+  .pic6 {
+    width: 100%;
+    height: 290px;
+    line-height: 290px;
+  }
+  .pic6 img {
+    max-height: 290px;
+    width: 87%;
+  }
+  .pic6 .border {
+    height: 247px;
+    top: 7%;
+    border-color: #ededed;
+  }
+  .pic6 .nomi {
+    bottom: 10.7%;
+  }
+  .pic5 .nomi {
+    bottom: 10.7%;
+  }
+  .pic7 {
+    height: 320px;
+    line-height: 320px;
+  }
+  .pic7 img {
+    max-height: 320px;
+  }
+  .pic7 .border {
+    height: 290px;
+  }
+  .pic7 .soya .batafsil {
+    left: 26%;
+  }
+  .name {
+    margin-bottom: 30px;
+  }
+  .alohida .thumb {
+    line-height: 140px;
+    height: 140px;
+  }
+  .alohida .thumb img {
+    max-height: 138px;
+  }
+  .alohida .more .batafsil {
+    padding: 4px 30px;
+    font-size: 18px;
+    left: 25%;
+  }
+  .alohida .name2 {
+    font-size: 19px;
+    margin-bottom: 5px;
+  }
+  .alohida .size,
+  .alohida .matn,
+  .alohida .tarkib,
+  .alohida .bonus {
+    margin-top: 5px;
+    font-size: 15px;
+  }
+  .sorry .not {
+    text-align: center;
+  }
+  .contact2 h4,
+  .contact2 p {
+    font-size: 16px;
+  }
+  .contact2 iframe {
+    min-height: 280px;
+    min-width: 400px;
+  }
+}

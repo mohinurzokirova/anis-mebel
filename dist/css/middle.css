@@ -1,0 +1,48 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  header {
+    padding-top: 50px;
+  }
+  header .korxona {
+    font-size: 18px;
+  }
+  header .second .qulay {
+    font-size: 18px;
+    margin-left: -40px;
+  }
+  header .second .main {
+    margin-top: -38%;
+    left: -87%;
+  }
+  header .second .raqam {
+    font-size: 18px;
+  }
+  .menyu .navbar .container-fluid .nav li a,
+  .menyu .navbar .navbar-collapse .nav li a {
+    font-size: 17px;
+  }
+  .pic7 {
+    height: 300px;
+    line-height: 300px;
+  }
+  .pic7 .border {
+    height: 275px;
+    top: 3.3%;
+  }
+  .alohida .thumb {
+    line-height: 180px;
+    height: 180px;
+  }
+  .alohida .thumb img {
+    max-height: 178px;
+  }
+  .alohida .more .batafsil {
+    left: 24%;
+  }
+  .galereya .thumb2 {
+    line-height: 180px;
+    height: 180px;
+  }
+  .galereya .thumb2 img {
+    max-height: 178px;
+  }
+}

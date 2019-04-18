@@ -1,0 +1,244 @@
+@media screen and (max-width: 767px) {
+  header {
+    padding-left: 20px;
+    padding-top: 10px;
+    text-align: center;
+  }
+  header .logo-rasm {
+    width: 120px;
+  }
+  header .korxona {
+    margin-top: 10px !important;
+    font-size: 22px !important;
+  }
+  header .second .qulay {
+    margin-top: 20px !important;
+    font-size: 18px;
+  }
+  header .second .raqam {
+    margin-top: 20px !important;
+    font-size: 18px;
+  }
+  .icons ul {
+    text-align: center;
+  }
+  .menyu .navbar {
+    text-align: center;
+  }
+  .menyu .navbar .container-fluid .nav li a,
+  .menyu .navbar .navbar-collapse .nav li a {
+    font-size: 20px;
+  }
+  .menyu .navbar .container-fluid .nav .dropdown .dropdown-menu,
+  .menyu .navbar .navbar-collapse .nav .dropdown .dropdown-menu {
+    text-align: center;
+  }
+  .menyu .navbar .container-fluid .nav .dropdown .dropdown-menu .son,
+  .menyu .navbar .navbar-collapse .nav .dropdown .dropdown-menu .son {
+    right: 10%;
+  }
+  .karusel .carousel .item img {
+    max-height: 280px;
+    min-height: 280px;
+  }
+  .karusel .carousel .item .carousel-caption {
+    left: 20% !important;
+    width: 80%;
+    bottom: 20%;
+  }
+  .karusel .carousel .item .carousel-caption h3 {
+    font-size: 22px;
+  }
+  .karusel .carousel .item .carousel-caption p {
+    font-size: 16px;
+  }
+  .karusel .carousel .item .carousel-caption .qisqa {
+    width: 90%;
+  }
+  .pic1 .nomi,
+  .pic2 .nomi,
+  .pic3 .nomi,
+  .pic4 .nomi,
+  .pic5 .nomi,
+  .pic6 .nomi,
+  .pic7 .nomi {
+    font-size: 18px;
+  }
+  .bolalar {
+    padding-left: 0px !important;
+  }
+  .pic2 .nomi {
+    left: 30%;
+  }
+  .pic3 {
+    height: 350px;
+    line-height: 350px;
+  }
+  .pic3 img {
+    min-height: 350px;
+    max-height: 350px;
+  }
+  .pic3 .border {
+    height: 315px;
+  }
+  .pic3 .nomi {
+    left: 35%;
+  }
+  .pic4 {
+    height: 430px;
+    line-height: 430px;
+  }
+  .pic4 img {
+    max-height: 430px;
+    min-height: 430px;
+    min-width: 100%;
+    width: 100%;
+  }
+  .pic4 .border {
+    height: 395px;
+  }
+  .pic6 {
+    width: 100%;
+    height: 290px;
+    line-height: 290px;
+  }
+  .pic6 img {
+    max-height: 290px;
+    width: 100%;
+  }
+  .pic6 .border {
+    height: 247px;
+    top: 7%;
+    border-color: #ededed;
+  }
+  .pic6 .nomi {
+    bottom: 10.7%;
+  }
+  .pic5 .nomi {
+    bottom: 10.7%;
+  }
+  .pic7 {
+    height: 340px;
+    line-height: 340px;
+  }
+  .pic7 img {
+    max-height: 337px;
+  }
+  .pic7 .border {
+    height: 290px;
+    top: 7%;
+  }
+  .pic7 .soya .batafsil {
+    left: 35%;
+  }
+  .name {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .mijozlar {
+    text-align: center;
+  }
+  .mijozlar .col-md-2 {
+    margin-top: 20px;
+  }
+  .mijozlar .sarlavha {
+    font-family: 'Ubuntu-Bold';
+    font-size: 22px;
+  }
+  footer {
+    text-align: center;
+  }
+  footer .table {
+    width: 50%;
+    margin-left: 25%;
+  }
+  footer .icons ul {
+    text-align: center !important;
+    margin-left: 22% !important;
+  }
+  footer .anis3 img {
+    margin-left: 0px;
+  }
+  .avtor {
+    text-align: center;
+    font-size: 13px;
+  }
+  .alohida {
+    text-align: center;
+  }
+  .alohida .thumb {
+    line-height: 220px;
+    height: 220px;
+    width: 60%;
+    margin-left: 20%;
+  }
+  .alohida .thumb img {
+    max-height: 220px;
+  }
+  .alohida .more .batafsil {
+    padding: 4px 30px;
+    font-size: 19px;
+    left: 32%;
+  }
+  .alohida .col-xs-12 {
+    padding: 0px 15px !important;
+  }
+  .modal .modal-content .article-slide .carousel-indicators li {
+    width: 150px;
+    height: 90px;
+  }
+  .modal .modal-content .article-slide .carousel-indicators img {
+    width: 150px;
+    height: 90px;
+  }
+  .galereya {
+    margin-top: 0px;
+  }
+  .galereya .thumb2 {
+    line-height: 230px;
+    height: 230px;
+    width: 50%;
+    margin-left: 25%;
+  }
+  .galereya .thumb2 img {
+    max-height: 230px;
+  }
+  .about .haqida .matn {
+    font-size: 15px;
+  }
+  .about .haqida img {
+    width: 90%;
+    margin-left: 5%;
+  }
+  .sorry {
+    height: auto;
+  }
+  .sorry .not {
+    text-align: center;
+    padding-right: 15px;
+    padding-top: 20px;
+  }
+  .sorry img {
+    display: none;
+  }
+  .pastki {
+    margin-top: 0px;
+  }
+  .contact2 {
+    text-align: center;
+  }
+  .contact2 .sarlavha {
+    text-align: center;
+  }
+  .contact2 h4,
+  .contact2 p {
+    font-size: 16px;
+  }
+  .contact2 iframe {
+    min-height: 300px;
+    border: none;
+    box-shadow: none;
+    overflow: hidden;
+    min-width: 60%;
+  }
+}
